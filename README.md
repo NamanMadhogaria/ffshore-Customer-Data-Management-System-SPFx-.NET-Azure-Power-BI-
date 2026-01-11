@@ -1,4 +1,4 @@
-# offshore-Customer-Data-Management-System-SPFx-.NET-Azure-Power-BI-
+# Offshore-Customer-Data-Management-System-SPFx-.NET-Azure-Power-BI-
 End-to-end enterprise application for collecting offshore customer data from websites, managing it in SharePoint, syncing to Azure SQL, exposing APIs, exporting via OpenXML, and visualizing insights using Power BI.This project is an end-to-end enterprise data management and analytics solution designed to collect, manage, sync, and visualize offshore customer information.
 
 The system gathers structured customer data from public websites, stores and manages it via SharePoint, synchronizes it to Azure SQL, exposes it through a .NET Core Web API, supports OpenXML-based exports, and provides Power BI dashboards for business insights.
